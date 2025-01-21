@@ -20,9 +20,5 @@ public class array {
         int[][] finalMarks = {{98,96,88},{89,88,99}};
         System.out.println(finalMarks[1][0]);
 
-
-
-
-
     }
 }
