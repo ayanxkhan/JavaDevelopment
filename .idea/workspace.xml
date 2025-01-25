@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9996c22-24f4-4858-8bb6-2d35923cc506" name="Changes" comment="revision">
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/demo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/demoException.java" afterDir="false" />
+    <list default="true" id="e9996c22-24f4-4858-8bb6-2d35923cc506" name="Changes" comment="exceptionHandling">
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/demo05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -199,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737666577342</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="exceptionHandling">
+      <created>1737817082413</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737817082413</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +223,7 @@
     <MESSAGE value="modified" />
     <MESSAGE value="practice Project" />
     <MESSAGE value="revision" />
-    <option name="LAST_COMMIT_MESSAGE" value="revision" />
+    <MESSAGE value="exceptionHandling" />
+    <option name="LAST_COMMIT_MESSAGE" value="exceptionHandling" />
   </component>
 </project>
