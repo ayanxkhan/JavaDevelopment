@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9996c22-24f4-4858-8bb6-2d35923cc506" name="Changes" comment="practice Project">
-      <change afterPath="$PROJECT_DIR$/src/revision/revision01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revision/revision02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revision/revision03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revision/revision04.java" afterDir="false" />
+    <list default="true" id="e9996c22-24f4-4858-8bb6-2d35923cc506" name="Changes" comment="revision">
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/demoException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +44,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.revision04">
-    <configuration name="LibraryManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LibraryManagementProject.LibraryManagement" />
+  <component name="RunManager" selected="Application.demo04">
+    <configuration name="demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.demo02" />
       <module name="JavaDevelopment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LibraryManagementProject.*" />
+          <option name="PATTERN" value="ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="revision01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="revision.revision01" />
+    <configuration name="demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.demo03" />
       <module name="JavaDevelopment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="revision.*" />
+          <option name="PATTERN" value="ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="revision02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="revision.revision02" />
+    <configuration name="demo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.demo04" />
       <module name="JavaDevelopment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="revision.*" />
+          <option name="PATTERN" value="ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="revision03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="revision.revision03" />
+    <configuration name="demoException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.demoException" />
       <module name="JavaDevelopment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="revision.*" />
+          <option name="PATTERN" value="ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo04" />
+        <item itemvalue="Application.demo03" />
+        <item itemvalue="Application.demo02" />
+        <item itemvalue="Application.demoException" />
         <item itemvalue="Application.revision04" />
-        <item itemvalue="Application.revision03" />
-        <item itemvalue="Application.revision02" />
-        <item itemvalue="Application.revision01" />
-        <item itemvalue="Application.LibraryManagement" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737576145604</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="revision">
+      <created>1737666577342</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737666577342</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,6 +218,7 @@
     <MESSAGE value="Test Commit" />
     <MESSAGE value="modified" />
     <MESSAGE value="practice Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice Project" />
+    <MESSAGE value="revision" />
+    <option name="LAST_COMMIT_MESSAGE" value="revision" />
   </component>
 </project>
