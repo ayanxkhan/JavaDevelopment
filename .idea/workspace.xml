@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9996c22-24f4-4858-8bb6-2d35923cc506" name="Changes" comment="exceptionHandling">
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/demo06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/demo07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/revision/revision05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicMaths/question01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,20 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.demo07">
-    <configuration name="demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.demo02" />
-      <module name="JavaDevelopment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExceptionHandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.question01">
     <configuration name="demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExceptionHandling.demo03" />
       <module name="JavaDevelopment" />
@@ -96,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="question01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicMaths.question01" />
+      <module name="JavaDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basicMaths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="revision05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="revision.revision05" />
       <module name="JavaDevelopment" />
@@ -111,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.question01" />
         <item itemvalue="Application.demo07" />
         <item itemvalue="Application.revision05" />
         <item itemvalue="Application.demo04" />
         <item itemvalue="Application.demo03" />
-        <item itemvalue="Application.demo02" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737831946686</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="exceptionHandling">
+      <created>1737917369842</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737917369842</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
